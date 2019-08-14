@@ -55,7 +55,7 @@ public class ContentTest {
         if (jsonRules != null) {
           for (Object eachJson : jsonRules) {
             JSONObject jsonObject = (JSONObject) eachJson;
-            persons.add(Person.toPerson(jsonObject));
+            persons.add(Person.toPerson(jsonObject));;
           }
         }
       } catch (Exception any) {
