@@ -59,7 +59,7 @@ public class ContentTest {
           }
         }
       } catch (Exception any) {
-        throw new Exception("Exception parsing json from input stream" + result);
+        throw new Exception("Exception parsing json from inputstream" + result);
       }
     }
     return persons;
