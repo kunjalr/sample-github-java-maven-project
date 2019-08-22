@@ -1,1 +1,2 @@
-Master Build status: [![Build Status](http://ec2-54-183-185-186.us-west-1.compute.amazonaws.com/buildStatus/icon?job=iac-policies-master)](http://ec2-54-183-185-186.us-west-1.compute.amazonaws.com/job/iac-policies-master/)
+Master Build status: [![Build Status](http://ec2-54-183-185-186.us-west-1.compute.amazonaws.com/buildStatus/icon?job=iac-policies-master)%2Fmaster&subject=Master%20build%20duration%20%24%7Bduration%7D)](http://ec2-54-183-185-186.us-west-1.compute.amazonaws.com/job/iac-policies-master/)
+[![Build Status](https://jenkins.<domain>.com/buildStatus/icon?job=<repo>%2Fdev&subject=Dev%20build%20duration%20${duration})](https://jenkins.<domain>.com/view/<link-to-jenkins-job>)
